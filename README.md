@@ -1,1 +1,1 @@
-# SYNCINTERNS_TASK-2
+This document serves as a guide for understanding and implementing the Online Survey System. This system is designed to facilitate the creation, distribution, and analysis of surveys over the internet.
